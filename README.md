@@ -100,7 +100,7 @@ kombinasyonlar kullanıcının yüzünün farklı pozlarda, ifadelerde ve göz d
 Bu, bir neural network modelinin eğitimi ve değerlendirilmesi için çeşitli ve zengin bir veri seti sağlar
 
 ## KODUN AÇIKLANMASI
-1.Kütüphane ve Modül İçeri Aktarma
+# 1.Kütüphane ve Modül İçeri Aktarma
 
 ![Görüntüleme](images/page_8.png)
 
@@ -109,7 +109,7 @@ ile işletim sistemi işlemleri yapmak, numpy ile matris işlemleri yapmak, kera
 modeli oluşturmak, PIL ile görüntü işlemleri yapmak, sklearn ile veri ön işleme ve model 
 performansını değerlendirme işlemleri yapılıyor.
 
-2. Veri Yükleme ve Ön İşleme
+# 2. Veri Yükleme ve Ön İşleme
 
 ![Görüntüleme](images/page_9.png)
 
@@ -119,7 +119,7 @@ Görüntüleri X listesine eklerken, etiketleri de (Y) bir tuple olarak ekliyoru
 
 ![Görüntüleme](images/page_10.png)
 
-3. Veri Setini Görüntüleme
+# 3. Veri Setini Görüntüleme
 
 ![Görüntüleme](images/page_11.png)
 
@@ -143,7 +143,7 @@ tamamlandıktan sonra grafikleri ekranda gösterir
 
  ![Görüntüleme](images/page_12.png)
 
- 4.Etiketlerin One-Hot Encoding İşlemi
+ # 4.Etiketlerin One-Hot Encoding İşlemi
 
 ![Görüntüleme](images/page_13.png)
 
@@ -160,7 +160,7 @@ değişkenine atar.
 
 ![Görüntüleme](images/page_14.png)
 
-5.Veri Setinin Eğitim ve Test Olarak Bölünmesi
+# 5.Veri Setinin Eğitim ve Test Olarak Bölünmesi
 
 ![Görüntüleme](images/page_15.png)
 
@@ -173,7 +173,7 @@ geçiriyoruz
 
 ![Görüntüleme](images/page_16.png)
 
-6.Derin Öğrenme Modelinin Oluşturulmasu ve Eğitilmesi
+# 6.Derin Öğrenme Modelinin Oluşturulmasu ve Eğitilmesi
 
 ![Görüntüleme](images/page_17.png)
 
@@ -226,7 +226,7 @@ belirtir. Bu, modelin eğitim sürecinde doğrulama performansını izlemeye yar
 
 ![Görüntüleme](images/page_18.png)
 
-7.Sınıflandırma Raporu ve Karışıklık Matrisi
+# 7.Sınıflandırma Raporu ve Karışıklık Matrisi
 
 ![Görüntüleme](images/page_19.png)
 
