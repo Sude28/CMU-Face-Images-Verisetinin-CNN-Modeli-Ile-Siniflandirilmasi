@@ -1,0 +1,1 @@
+# CMU-Face-Images-Verisetinin-CNN-Modeli-Ile-Siniflandirilmasi
